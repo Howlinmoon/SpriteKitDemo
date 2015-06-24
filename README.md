@@ -1,12 +1,7 @@
 # SpriteKitDem
 
-Left off here:
 
-http://www.lynda.com/iOS-tutorials/Deconstructing-Sprite-Kit-project-template/146015/166852-4.html?autoplay=true
-o
-Fri Jun 19 05:07:00 EDT 2015
-Fri Jun 19 05:24:13 EDT 2015
-Sat Jun 20 06:25:43 EDT 2015
-Sun Jun 21 07:20:44 EDT 2015
-Mon Jun 22 05:51:18 EDT 2015
-Tue Jun 23 18:25:12 EDT 2015
+Starting:
+http://www.lynda.com/iOS-tutorials/Constructing-scenes-nodes/146015/166853-4.html
+
+

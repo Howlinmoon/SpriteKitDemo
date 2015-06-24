@@ -39,10 +39,12 @@
         sprite.position = location;
         
         SKAction *action = [SKAction rotateByAngle:M_PI duration:1];
-        
-        [sprite runAction:[SKAction repeatActionForever:action]];
-        
+
         [self addChild:sprite];
+        
+        //[sprite runAction:[SKAction repeatActionForever:action]];
+        [sprite runAction:[SKAction repeatAction:action count:5]];
+        
     }
 }
 
